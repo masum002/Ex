@@ -1,0 +1,9 @@
+
+{
+  "name": "FB Reaction Exchange",
+  "description": "A coin-based Facebook reaction exchange web application built with React, Tailwind CSS, and MongoDB integration for Vercel deployment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,13 @@
+
+{
+  "version": 2,
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "installCommand": "npm install",
+  "regions": ["sin1"],
+  "env": {
+    "MONGODB_URI": "@mongodb_uri",
+    "FB_APP_ID": "@fb_app_id",
+    "FB_APP_SECRET": "@fb_app_secret"
+  }
+}
